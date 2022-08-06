@@ -11,7 +11,7 @@ Below that has different types of tablets in a form which to be filled to procee
 Next Page consists of Delivery Page, where delivery address is to be filled and order would be submitted
 Coming to second portal, Booking a appointment with doctors with specialisations for a specific timing
 Next portal is Booking an Ambulance
-There is also a Transaction History Page which connects with back end![Uploading image.png…]()
+There is also a Transaction History Page which connects with back end!
 Below these image portals, comes the text links, in four columns
 First Column is About Us, consists of Director, Manager Doctor , Health Care team info and terms and conditions, privacy policy and FAQs
 Next Column consists of Services, of buying medicines, consulting Doctor, Booking Scan(which will sent to Hospital Outside), and Covid Testing
