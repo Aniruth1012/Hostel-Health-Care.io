@@ -1,0 +1,85 @@
+fieldset{
+    background: wheat;
+    width: 65%;
+    margin-left: 7cm;
+    border-color: wheat;
+}
+body{
+    background: lightblue;
+}
+h1{
+    background: wheat;
+    color: black;
+}
+#faqsize{
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+    color: black;
+}
+#timetable{
+    font-size: 20px;
+}
+#scanreport{
+    background: beige;
+    width: 60%;
+    margin-left: 5cm;
+}
+#covid{
+    color: purple;
+    font-size: 22px;
+}
+#fak{
+    color: purple;
+    font-size: 22px;
+}
+.zoom{
+    transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(1.5);
+}
+#box{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 55px;
+    margin-left: 282px;
+    width: 350px;
+}
+#boxt{
+    color: rgb(236, 137, 16);
+    text-align: center;
+}
+.tabler{
+    color:gray;
+    font-size: 18px;
+    font-weight: 5px;
+}
+.tablel{
+    color:rgb(51, 48, 48);
+    font-size: 25px;
+    font-weight: 8px;
+}
+#circle {
+    width: 18px;
+    height: 18px;
+    background: red;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    }
+.final{
+    background:rgb(236, 137, 16);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+#amb{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 130px;
+    height: 20%;
+}

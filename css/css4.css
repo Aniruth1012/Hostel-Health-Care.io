@@ -1,0 +1,11 @@
+input[type="checkbox"] {
+    content: url('http://placekitten.com/150/160');
+    appearance: none;
+    display: block;
+    width: 150px;
+    height: 150px;
+  }
+  
+  input[type="checkbox"]:checked {
+    content: url('http://placekitten.com/170/180');
+  }
